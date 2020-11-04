@@ -10,5 +10,5 @@
 
         └── 03_stairway.rb
 
-        └── README.md
+    └── README.md
 
